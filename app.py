@@ -1195,3 +1195,4 @@ st.sidebar.divider()
 
 st.sidebar.caption(
     "🏨 Hotel Manager • Streamlit"
+)
